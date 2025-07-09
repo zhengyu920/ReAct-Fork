@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data and trajectory files
+/data/
+/trajs/
